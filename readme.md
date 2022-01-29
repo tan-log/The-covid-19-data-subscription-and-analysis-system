@@ -16,8 +16,8 @@
 
 ## 界面设计
 
-![image-20211225212015749](https://github.com/tan-log/The-covid-19-data-subscription-and-analysis-system\img\image-20211225212015749.png)
-![image-20211225212032310](https://github.com/tan-log/The-covid-19-data-subscription-and-analysis-system\img\image-20211225212032310.png)
+![image-20211225212015749](https://github.com/tan-log/The-covid-19-data-subscription-and-analysis-system/blob/main/img/image-20211225212015749.png)
+![image-20211225212032310](https://github.com/tan-log/The-covid-19-data-subscription-and-analysis-system/blob/main/img/image-20211225212032310.png)
 
 ## 操作说明
 
