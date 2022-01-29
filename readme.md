@@ -16,32 +16,32 @@
 
 ## 界面设计
 
-![image-20211225212015749](https://github.com/tan-log/The-covid-19-data-subscription-and-analysis-system/blob/main/img/image-20211225212015749.png)
-![image-20211225212032310](https://github.com/tan-log/The-covid-19-data-subscription-and-analysis-system/blob/main/img/image-20211225212032310.png)
+![image-20211225212015749](github.com/tan-log/The-covid-19-data-subscription-and-analysis-system/blob/main/img/image-20211225212015749.png)
+![image-20211225212032310](github.com/tan-log/The-covid-19-data-subscription-and-analysis-system/blob/main/img/image-20211225212032310.png)
 
 ## 操作说明
 
 - **单击**分析进入数据分析界面。
 
-  ![image-20211225212351539](https://github.com/tan-log/The-covid-19-data-subscription-and-analysis-system/blob/main/img/image-20211225212351539.png)
+  ![image-20211225212351539](github.com/tan-log/The-covid-19-data-subscription-and-analysis-system/blob/main/img/image-20211225212351539.png)
 
 - 左上方选择**导入**、**导出**疫情数据。
-  ![image-20211225212450860](https://github.com/tan-log/The-covid-19-data-subscription-and-analysis-system/blob/main/img/image-20211225212450860.png)
+  ![image-20211225212450860](github.com/tan-log/The-covid-19-data-subscription-and-analysis-system/blob/main/img/image-20211225212450860.png)
 
 - 中上方可选择查看数据信息（地区名,、起始时间、 结束时间）。
 
-  ![image-20211225212534075](https://github.com/tan-log/The-covid-19-data-subscription-and-analysis-system/blob/main/img/image-20211225212534075.png)
+  ![image-20211225212534075](github.com/tan-log/The-covid-19-data-subscription-and-analysis-system/blob/main/img/image-20211225212534075.png)
 
 - **单击**右方刷新按钮，可以在下方列表筛选的疫情数据。
-  ![image-20211225212733536](hhttps://github.com/tan-log/The-covid-19-data-subscription-and-analysis-system/blob/main/img/image-20211225212733536.png)
+  ![image-20211225212733536](hgithub.com/tan-log/The-covid-19-data-subscription-and-analysis-system/blob/main/img/image-20211225212733536.png)
 
 - **单击**疫情地区图按钮，可以显示所选结束时间的疫情地图。
-  ![image-20211225213107722](https://github.com/tan-log/The-covid-19-data-subscription-and-analysis-system/blob/main/img/image-20211225213107722.png)![image-20211225213010255](https://github.com/tan-log/The-covid-19-data-subscription-and-analysis-system/blob/main/img/image-20211225213010255.png)
+  ![image-20211225213107722](github.com/tan-log/The-covid-19-data-subscription-and-analysis-system/blob/main/img/image-20211225213107722.png)![image-20211225213010255](github.com/tan-log/The-covid-19-data-subscription-and-analysis-system/blob/main/img/image-20211225213010255.png)
 
 - **单击**右侧分析按钮，可以显示疫情累计、新增和预测数据。
 
-  ![image-20211225213133846](https://github.com/tan-log/The-covid-19-data-subscription-and-analysis-system/blob/main/img/image-20211225213133846.png)
-  ![image-20211225213306269](https://github.com/tan-log/The-covid-19-data-subscription-and-analysis-system/blob/main/img/image-20211225213306269.png)
+  ![image-20211225213133846](github.com/tan-log/The-covid-19-data-subscription-and-analysis-system/blob/main/img/image-20211225213133846.png)
+  ![image-20211225213306269](github.com/tan-log/The-covid-19-data-subscription-and-analysis-system/blob/main/img/image-20211225213306269.png)
 
 ## 系统实现
 
