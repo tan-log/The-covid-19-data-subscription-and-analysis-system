@@ -70,7 +70,7 @@ class Publish(QWidget):
         super(Publish, self).__init__()
 
         # 连接信息，会根据设置界面的输入更新
-        self.connect_info = {'address': '47.100.197.182', 'port': '1883', 'username': '', 'password': ''}
+        self.connect_info = {'address': '47.100.X.X', 'port': '1883', 'username': '', 'password': ''}
         # 订阅获取的信息
         self.connect_state = ConnectState.disconnected
         self.connect_btn = QPushButton('连接')
